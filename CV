@@ -1,0 +1,73 @@
+<html>
+
+<head>
+    <title>My CV </title>
+</head>
+
+<body bgcolor="white">
+    <h1><b> FURQAN AYAZ </b></h1>
+    <address style="color:red;"> foorki048@gmail.com</address>
+    <h2 style="color:blue;">CAREER OBJECT:</h2>
+    Want to be the part of a software developer organization and utilize my knowledge,Skills
+    and expertise to contribute<br> towards organization and professional
+    brilliance and to learn more with the passage of time from all<br>
+    types of situations and circumstances.
+    <h2 style="color:blue;">EDUCATION AND QUALIIFICATIONS:</h2>
+    <table border="2" cellspacing="5" cellpadding="5">
+        <tr>
+            <th>Qualification</th>
+            <th>Maximun Marks</th>
+            <th>Obtained Marks</th>
+            <th>Division</th>
+            <th>Institution</th>
+            <th>Bord/University</th>
+        </tr <tr>
+        <td>Graduation</td>
+        <td>-----</td>
+        <td>-----</td>
+        <td>None</td>
+        <td>Sir Syed University Of Engg. & Technology</td>
+        <td>University </td>
+        </tr>
+        <tr>
+            <td>Intermediate</td>
+            <td>800</td>
+            <td>513</td>
+            <td>B</td>
+            <td>Pakistan Shipowner's Govt. College</td>
+            <td>Karachi</td>
+        </tr>
+        <tr>
+            <td>Matriculation</td>
+            <td>1100</td>
+            <td>912</td>
+            <td>A+</td>
+            <td>Asra Public School</td>
+            <td>Karachi</td>
+        </tr>
+    </table>
+    <h2 style="color:blue;">TECHNICAL EXPERIENCE:</h2>
+
+    Languages: C, C++, JAVA, HTML <br>
+    Platforms: Windows (7,8,10,10 pro) , Linux(Ubuntu, Fedora, Kaali)<br>
+    Concepts: Networking, Operating Systems(OS), Software
+    <h2 style="color:blue;">ABILITIES:</h2>
+    Skill Level : MS Word, MS Excel, Power point, VS code, SQL Server Management Studio, MATLAB, Netbeans, Eclipse and
+    many more.... <br>
+    practiced : More than 1 years
+    <h2 style="color:blue;">PERSONAL SKILLS:</h2>
+    1.Honesty<br>
+    2.Team Spirit<br>
+    3.Accepting Challenges<br>
+    4.Hard Worker<br>
+    5.Time Manager
+    <h2 style="color:blue;">LANGUAGES:</h2>
+    Urdu,English
+    <h2 style="color:blue;">INTEREST:</h2>
+    1.Internet browsing<br>
+    2.Reading books
+    <h2 style="color:blue;">REFERENCE:</h2>
+    Will be provided on demand
+</body>
+
+</html>
